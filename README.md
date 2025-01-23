@@ -7,4 +7,5 @@
 - 📫 How to reach me: prathikbafna0@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
+- Portfolio : https://prathikbafna.github.io/
 
